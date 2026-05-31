@@ -1,4 +1,4 @@
-# 📝 AI Text Summarizer
+# AI Text Summarizer
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 ## Giới thiệu
