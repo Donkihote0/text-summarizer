@@ -47,7 +47,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 🧠 Công nghệ")
     st.markdown("""
-    - **Tóm tắt:** BART (Facebook)
+    - **Tóm tắt:** BART
     - **Từ khóa:** KeyBERT
     - **Giao diện:** Streamlit
     """)
@@ -158,6 +158,6 @@ Thông tin:
 # Footer
 st.markdown("---")
 st.markdown(
-    "<div style='text-align: center; color: gray;'>💡 Powered by BART (Facebook) and KeyBERT | Made with Streamlit</div>",
+    "<div style='text-align: center; color: gray;'>Powered by BART and KeyBERT | Made by Donkihote0</div>",
     unsafe_allow_html=True
 )
