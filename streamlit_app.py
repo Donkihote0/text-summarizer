@@ -45,12 +45,6 @@ with st.sidebar:
     """)
     
     st.markdown("---")
-    st.markdown("### 🧠 Công nghệ")
-    st.markdown("""
-    - **Tóm tắt:** BART
-    - **Từ khóa:** KeyBERT
-    - **Giao diện:** Streamlit
-    """)
 
 # Main area: Input
 col1, col2 = st.columns([2, 1])
